@@ -1,0 +1,123 @@
+[
+    {
+        "nom": "Chat",
+        "espece": "Felis catus",
+        "age": 2,
+        "poids": 4.5,
+        "couleur": "Noir",
+        "prix": 150,
+        "caracteristiques": [
+            "Joueur",
+            "Indépendant",
+            "Câlin"
+        ]
+    },
+    {
+        "nom": "Chien",
+        "espece": "Canis lupus familiaris",
+        "age": 3,
+        "poids": 12,
+        "couleur": "Brun",
+        "prix": 200,
+        "caracteristiques": [
+            "Affectueux",
+            "Protecteur",
+            "Obéissant"
+        ]
+    },
+    {
+        "nom": "Perroquet",
+        "espece": "Psittacidae",
+        "age": 5,
+        "couleur": "Multicolore",
+        "prix": 300,
+        "caracteristiques": [
+            "Parle",
+            "Intelligent",
+            "Sociable"
+        ]
+    },
+    {
+        "nom": "Hamster",
+        "espece": "Mesocricetus auratus",
+        "age": 1,
+        "poids": 0.2,
+        "couleur": "Blanc",
+        "prix": 20,
+        "caracteristiques": [
+            "Actif",
+            "Facile à entretenir"
+        ]
+    },
+    {
+        "nom": "Poisson rouge",
+        "espece": "Carassius auratus",
+        "age": 1,
+        "poids": 0.1,
+        "couleur": "Orange",
+        "prix": 10,
+        "caracteristiques": [
+            "Vit dans l'eau",
+            "Nageur"
+        ]
+    },
+    {
+        "nom": "Souris",
+        "espece": "Mus musculus",
+        "age": 0.5,
+        "poids": 0.03,
+        "couleur": "Gris",
+        "prix": 5,
+        "caracteristiques": [
+            "Petite taille",
+            "Rapide",
+            "Grignoteur"
+        ]
+    },
+    {
+        "nom": "Canari",
+        "espece": "Serinus canaria",
+        "age": 2,
+        "couleur": "Jaune",
+        "prix": 50,
+        "caracteristiques": [
+            "Chanteur",
+            "Vit dans une cage"
+        ]
+    },
+    {
+        "nom": "Lapin",
+        "espece": "Oryctolagus cuniculus",
+        "age": 1.5,
+        "poids": 2,
+        "couleur": "Blanc",
+        "prix": 80,
+        "caracteristiques": [
+            "Herbivore",
+            "Sauteur"
+        ]
+    },
+    {
+        "nom": "Gecko léopard",
+        "espece": "Eublepharis macularius",
+        "age": 3,
+        "couleur": "Marron",
+        "prix": 100,
+        "caracteristiques": [
+            "Reptile",
+            "Nocturne"
+        ]
+    },
+    {
+        "nom": "Furet",
+        "espece": "Mustela putorius furo",
+        "age": 4,
+        "poids": 1,
+        "couleur": "Brun",
+        "prix": 150,
+        "caracteristiques": [
+            "Carnivore",
+            "Joueur"
+        ]
+    }
+]
